@@ -27,6 +27,11 @@ a:hover {
     text-decoration: none;
 }
 
+footer {
+    display: block;
+    margin: 0.5em auto;
+}
+
 footer a {
     text-decoration: underline;
 }
